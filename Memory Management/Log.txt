@@ -1,0 +1,15 @@
+mark@mark:~$ cd Desktop
+mark@mark:~/Desktop$ ./convert2
+Enter a decimal number between 0 and 4095 : 4000
+
+Binary number :: 111110100000
+
+Hexadecimal number :: FA0
+
+ Decimal shifted left 16 bits:262144000
+
+
+Binary number after shift :: 1111101000000000000000000000
+
+Hexadecimal number after shift :: FA00000
+
