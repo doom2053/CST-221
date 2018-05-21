@@ -1,0 +1,15 @@
+Group:btn
+##Following are the users that will be added to the HOME Directory!!!
+Username001:fa05btn001
+Username002:fa05btn002
+Username003:fa05btn003
+Username004:fa05btn004
+Username005:fa05btn005
+Username006:fa05btn006
+Username007:fa05btn007
+Username008:fa05btn008
+Username009:EOF
+#it will be the End user
+varify:fa05btn
+Password:123456
+End of Text File!!!!
